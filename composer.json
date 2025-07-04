@@ -1,0 +1,11 @@
+{
+  "name": "test/test-package",
+  "description": "Test or demo package",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\YourPackage\\": "src/"
+    }
+  },
+  "require": {}
+}
